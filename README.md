@@ -7,3 +7,4 @@ Hint: Look for LOLBINS.
 Hint: Look for an event that fires when a honey file is accessed. 
 3. What was the C2 IP address? 
 4. What was the name of the downloaded payload?
+5. Were any commands run to perform situational awareness of the environment and if so, what were they?
