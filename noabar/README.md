@@ -1,4 +1,4 @@
-# dune
+# noabar
 This is a repo to hold attack artifacts from my home lab.
 The PowerShell script can be used to parse most event logs, if you do not want to use the parsed json files.
 The .ipynb file is an iPython file. You can view it inside of a Jupyter Notebook to get the answers if you are stuck.
